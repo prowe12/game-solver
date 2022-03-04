@@ -1,2 +1,2 @@
-# game-solver
+# game-solvers
 AI game solvers
